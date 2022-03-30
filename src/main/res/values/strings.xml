@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTuDo</string>
+    <string name="bntCompute">Compute</string>
+</resources>
